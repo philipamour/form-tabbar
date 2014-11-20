@@ -12,7 +12,7 @@ Enjoy responsibly and build something awesome! (it would be nice if you would em
 ## Features
 - Looks and behaves **exactly** as the Apple's own iOS UITabBar (I realize that this is a bold statement, but go and see for yourself)
 - Fully responsive (works on iPhone 5S, iPhone 6, iPad Air, ...)
-- Fully customizable (easily the labels and tint for your UITabBar items and update the icons)
+- Fully customizable (easily update the icons, labels and tint of your UITabBar items)
 
 ## How to Use
 - Download the **UITabBar Controller.form**
